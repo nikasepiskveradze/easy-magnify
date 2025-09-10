@@ -1,10 +1,10 @@
 {
-  "name": "easy-magnify",
+  "name": "react-easy-magnify",
   "version": "1.0.4",
   "description": "Everything you need for magnifying images",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ChetSocio/easy-magnify.git"
+    "url": ""
   },
   "keywords": [
     "image-zoom",

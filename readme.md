@@ -1,4 +1,4 @@
-<h1>Easy-Magnify</h1>
+<h1>React Easy-Magnify</h1>
 
 <p> <code>Easy-magnify </code> is an <strong> open-source image-zooming npm package </strong>. You may have seen really nice image zooming on ecommerce sites like amazon , flipkart and more. If you want same functionality on your site then you can use this </p>
 
@@ -31,7 +31,7 @@ Coming soon* but works same like react-image-magnify package
 ## Installation
 
 ```sh
-npm install easy-magnify
+npm install react-easy-magnify
 ```
 
 ## Usage
